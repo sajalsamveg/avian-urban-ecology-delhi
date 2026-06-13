@@ -52,7 +52,7 @@ forced into toxic ancestral wetlands with no alternative wintering grounds.
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook avian_ecology.ipynb
+jupyter notebook Bird_Phenology_Final.ipynb
 ```
 
 Data is fetched via the eBird API and OpenAQ. See notebook for API setup.
@@ -60,7 +60,7 @@ Data is fetched via the eBird API and OpenAQ. See notebook for API setup.
 ## Repo structure
 
 avian-urban-ecology-delhi/
-├── avian_ecology.ipynb    # Full pipeline: data → PCA → models → maps
+├── Bird_Phenology_Final.ipynb    # Full pipeline: data → PCA → models → maps
 ├── requirements.txt
 └── README.md
 
