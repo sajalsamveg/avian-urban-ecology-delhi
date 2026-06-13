@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+keras
+tensorflow
+geopandas
+shapely
+matplotlib
+seaborn
+scipy
